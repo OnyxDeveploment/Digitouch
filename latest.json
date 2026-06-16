@@ -1,12 +1,12 @@
 {
-    "channel": "stable",
-    "platform": "windows",
-    "latest_version": "2.2.0.3",
-    "minimum_supported_version": "2.2.0.0",
-    "mandatory": false,
-    "download_url": "https://downloads.digiauth.online/LeviUnlock.exe",
-    "sha256": "46a4cd320830ac63a5bce528a4c9e98d96a59ebb53447ef0f3fa75d19728783e",
-    "size_bytes": 12051968,
-    "release_notes": "Stability improvements and safer support flow.",
-    "published_at": "2026-06-11T22:10:06Z"
+  "channel": "stable",
+  "platform": "windows",
+  "latest_version": "2.2.0.4",
+  "minimum_supported_version": "2.2.0.4",
+  "mandatory": false,
+  "download_url": "https://levi-unlock.com/downloads/DigiTouch_Support.exe",
+  "sha256": "3a2524ff2d4c2078c3f935b691c8b0440fe54fc83028b39a4701a502c6f71942",
+  "size_bytes": 12113920,
+  "release_notes": "Stability improvements and safer support flow.",
+  "published_at": "2026-06-16T15:25:00Z"
 }
